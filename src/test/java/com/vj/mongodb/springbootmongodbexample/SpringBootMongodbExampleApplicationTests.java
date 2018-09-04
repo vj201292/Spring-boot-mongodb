@@ -1,4 +1,4 @@
-package com.techprimers.mongodb.springbootmongodbexample;
+package com.vj.mongodb.springbootmongodbexample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

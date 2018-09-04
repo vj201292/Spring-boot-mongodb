@@ -1,7 +1,7 @@
-package com.techprimers.mongodb.springbootmongodbexample.config;
+package com.vj.mongodb.springbootmongodbexample.config;
 
-import com.techprimers.mongodb.springbootmongodbexample.document.Users;
-import com.techprimers.mongodb.springbootmongodbexample.repository.UserRepository;
+import com.vj.mongodb.springbootmongodbexample.document.Users;
+import com.vj.mongodb.springbootmongodbexample.repository.UserRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
